@@ -1,4 +1,6 @@
-# Fitness-First
+https://main--lively-sundae-129771.netlify.app/
+
+# Eat N Cure
 We are excited to announce the launch of my new project.
 During this Quarantine  stay safe and connected  with my web.
 
